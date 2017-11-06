@@ -1,0 +1,22 @@
+[24-Oct-2016 15:14:16 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home3/starshow/public_html/erp/aibwp/Mail/Functions/emailSender.php on line 13
+[24-Oct-2016 15:46:33 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home3/starshow/public_html/erp/aibwp/Mail/Functions/emailSender.php on line 13
+[26-Oct-2016 12:06:51 America/Denver] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/starshow/public_html/erp/aibwp/Mail/Functions/emailSender.php on line 4
+[26-Oct-2016 12:07:19 America/Denver] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/starshow/public_html/erp/aibwp/Mail/Functions/emailSender.php on line 4
+[26-Oct-2016 12:08:16 America/Denver] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/starshow/public_html/erp/aibwp/Mail/Functions/emailSender.php on line 4
+[26-Oct-2016 12:08:28 America/Denver] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/starshow/public_html/erp/aibwp/Mail/Functions/emailSender.php on line 4
+[26-Oct-2016 13:20:33 America/Denver] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE), expecting ',' or ';' in /home3/starshow/public_html/erp/aibwp/Mail/Functions/emailSender.php on line 4
+[26-Oct-2016 13:21:49 America/Denver] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE), expecting ',' or ';' in /home3/starshow/public_html/erp/aibwp/Mail/Functions/emailSender.php on line 4
+[26-Oct-2016 13:27:54 America/Denver] PHP Notice:  Undefined index: email in /home3/starshow/public_html/erp/aibwp/Mail/Functions/emailSender.php on line 7
+[26-Oct-2016 13:27:57 America/Denver] PHP Notice:  Undefined index: email in /home3/starshow/public_html/erp/aibwp/Mail/Functions/emailSender.php on line 7
+[26-Oct-2016 13:28:28 America/Denver] PHP Notice:  Undefined index: email in /home3/starshow/public_html/erp/aibwp/Mail/Functions/emailSender.php on line 7
+[26-Oct-2016 13:28:33 America/Denver] PHP Notice:  Undefined index: email in /home3/starshow/public_html/erp/aibwp/Mail/Functions/emailSender.php on line 7
+[26-Oct-2016 13:29:36 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Functions/emailSender.php on line 7
+[26-Oct-2016 13:31:13 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Functions/emailSender.php on line 7
+[27-Oct-2016 13:08:48 America/Denver] PHP Parse error:  syntax error, unexpected '^' in /home3/starshow/public_html/erp/aibwp/Mail/Functions/emailSender.php on line 4
+[27-Oct-2016 13:11:56 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Functions/emailSender.php on line 9
+[27-Oct-2016 13:14:14 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Functions/emailSender.php on line 9
+[27-Oct-2016 13:14:43 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Functions/emailSender.php on line 9
+[27-Oct-2016 13:15:06 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Functions/emailSender.php on line 9
+[28-Oct-2016 09:25:33 America/Denver] PHP Warning:  include(): Failed opening '/erp/aibwp/Mail/Templates/CollectionsEmail.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home3/starshow/public_html/erp/aibwp/Mail/Functions/emailSender.php on line 6
+[28-Oct-2016 12:59:58 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home3/starshow/public_html/erp/aibwp/Mail/Functions/emailSender.php on line 9
+[28-Oct-2016 13:00:40 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home3/starshow/public_html/erp/aibwp/Mail/Functions/emailSender.php on line 9

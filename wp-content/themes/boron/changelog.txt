@@ -1,0 +1,50 @@
+Boron changelog
+
+= Version 1.7 =
+* Fixed imagesloaded script issue
+
+= Version 1.6 =
+* Moved navigation buttons at costomizer to plugin
+* Removed Menu panel from customizer
+
+= Version 1.5 =
+* Made copyright translatable
+* Removed commented code
+
+= Version 1.4 =
+* Removed social links from customizer
+* Added core WP logo feature
+* Correctly enqueue admin styles/scripts
+* Prefixed styles
+* Used WP core function for pagination
+* Localized header "Theme by" text
+* Fixed search form at header
+* Escaped home_url() at header
+
+= Version 1.3 =
+* Fixed some responsiveness issues
+
+= Version 1.2 =
+* Fixed some comment form styling
+* Added pagination if rest api plugin is disabled
+* Fixed search bubble size
+* Updated translation files
+* Improved post hover
+
+= Version 1.1 =
+* Some fixes and improvements
+* Escaped values
+* Enqueued html5 in functions.php
+* Added missing translation
+* Removed unnecessary code
+* Fixed broken styles
+* A way to get back to home from search
+* Removed close icon from static page
+* Added some documentation in functions.php
+* Fixed 404 page responsiveness
+* Added post pagination
+* Added title-tag support
+* Fixed broken links and spelling issues
+
+= Version 1.0 =
+* Initial release

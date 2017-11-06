@@ -1,0 +1,99 @@
+[21-Oct-2016 04:16:32 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home3/starshow/public_html/erp/aibwp/Mail/Templates/returnEmail.php on line 15
+[24-Oct-2016 09:00:01 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 9
+[24-Oct-2016 15:49:19 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home3/starshow/public_html/erp/aibwp/Mail/Templates/returnEmail.php on line 15
+[28-Oct-2016 09:01:17 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 24
+[28-Oct-2016 09:01:36 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 24
+[28-Oct-2016 09:25:33 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 24
+[28-Oct-2016 09:25:33 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 24
+[28-Oct-2016 09:25:54 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 24
+[28-Oct-2016 09:26:00 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 24
+[28-Oct-2016 09:26:28 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 24
+[28-Oct-2016 09:26:35 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 24
+[28-Oct-2016 09:27:28 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 09:27:32 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 09:32:14 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 09:32:21 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 09:32:42 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 09:52:04 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 09:52:32 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 09:52:41 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 09:53:17 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 09:54:09 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 09:54:13 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 09:54:45 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 09:54:50 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 09:55:01 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 09:57:42 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 09:57:42 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 50
+[28-Oct-2016 09:58:29 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 09:58:29 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 50
+[28-Oct-2016 09:58:40 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 09:58:40 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 50
+[28-Oct-2016 09:59:21 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 09:59:21 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 50
+[28-Oct-2016 10:00:45 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 10:00:45 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 50
+[28-Oct-2016 10:01:15 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 10:01:15 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 50
+[28-Oct-2016 10:01:16 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 10:01:16 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 50
+[28-Oct-2016 10:02:05 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 10:02:05 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 50
+[28-Oct-2016 10:02:19 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 10:03:14 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 10:03:14 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 50
+[28-Oct-2016 10:07:22 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 10:07:22 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 50
+[28-Oct-2016 10:07:34 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 10:07:34 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 50
+[28-Oct-2016 10:08:13 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 10:08:13 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 50
+[28-Oct-2016 10:08:56 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 10:08:56 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 50
+[28-Oct-2016 12:55:58 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 12:55:58 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 50
+[28-Oct-2016 12:56:17 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 12:56:17 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 50
+[28-Oct-2016 12:56:29 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 12:56:29 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 50
+[28-Oct-2016 12:56:31 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 12:56:31 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 50
+[28-Oct-2016 13:00:13 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 13:00:13 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 50
+[28-Oct-2016 13:01:07 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 13:01:07 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 50
+[28-Oct-2016 13:01:15 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 22
+[28-Oct-2016 13:01:15 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 50
+[28-Oct-2016 13:29:23 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 23
+[31-Oct-2016 12:56:38 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 23
+[31-Oct-2016 13:00:25 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 23
+[31-Oct-2016 13:00:25 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 65
+[31-Oct-2016 13:01:03 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 23
+[31-Oct-2016 13:01:03 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 65
+[31-Oct-2016 13:04:36 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 23
+[31-Oct-2016 13:04:36 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 65
+[31-Oct-2016 13:04:46 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 23
+[31-Oct-2016 13:04:46 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 65
+[31-Oct-2016 13:04:57 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 23
+[31-Oct-2016 13:04:57 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 65
+[31-Oct-2016 13:05:04 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 23
+[31-Oct-2016 13:05:04 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 65
+[31-Oct-2016 13:06:59 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 27
+[31-Oct-2016 13:06:59 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 65
+[31-Oct-2016 13:07:07 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 27
+[31-Oct-2016 13:07:07 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 65
+[31-Oct-2016 13:12:23 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 27
+[31-Oct-2016 13:12:23 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 65
+[31-Oct-2016 13:12:38 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 27
+[31-Oct-2016 13:12:38 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 65
+[31-Oct-2016 13:17:36 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 15
+[31-Oct-2016 13:17:36 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 53
+[31-Oct-2016 13:40:32 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home3/starshow/public_html/erp/aibwp/Mail/Templates/returnEmail.php on line 15
+[04-Nov-2016 12:00:08 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home3/starshow/public_html/erp/aibwp/Mail/Templates/returnEmail.php on line 15
+[04-Nov-2016 12:00:30 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home3/starshow/public_html/erp/aibwp/Mail/Templates/returnEmail.php on line 15
+[04-Nov-2016 14:27:19 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 15
+[04-Nov-2016 14:27:19 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 53
+[07-Nov-2016 10:36:36 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home3/starshow/public_html/erp/aibwp/Mail/Templates/returnEmail.php on line 15
+[10-Nov-2016 12:51:46 America/Denver] PHP Notice:  Undefined index: email2 in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 15
+[10-Nov-2016 12:51:49 America/Denver] PHP Warning:  include(): Failed opening 'http://ftp.starshowsstudios.com/erp/aibwp/Mail/Functions/PullCollectionRecords.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 44
+[10-Nov-2016 12:51:49 America/Denver] PHP Notice:  Undefined variable: to in /home3/starshow/public_html/erp/aibwp/Mail/Templates/CollectionsEmail.php on line 59

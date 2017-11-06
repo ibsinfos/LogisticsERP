@@ -1,0 +1,152 @@
+[29-Jul-2016 13:19:06 America/Denver] PHP Notice:  Use of undefined constant test - assumed 'test' in /home3/starshow/public_html/erp/aibwp/functions.php on line 7
+[29-Jul-2016 13:20:04 America/Denver] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE), expecting ',' or ';' in /home3/starshow/public_html/erp/aibwp/functions.php on line 8
+[29-Jul-2016 13:20:06 America/Denver] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE), expecting ',' or ';' in /home3/starshow/public_html/erp/aibwp/functions.php on line 8
+[29-Jul-2016 13:20:14 America/Denver] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE), expecting ',' or ';' in /home3/starshow/public_html/erp/aibwp/functions.php on line 8
+[29-Jul-2016 13:20:20 America/Denver] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE), expecting ',' or ';' in /home3/starshow/public_html/erp/aibwp/functions.php on line 8
+[29-Jul-2016 13:20:22 America/Denver] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE), expecting ',' or ';' in /home3/starshow/public_html/erp/aibwp/functions.php on line 8
+[09-Aug-2016 13:37:23 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 6
+[09-Aug-2016 13:37:56 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 6
+[09-Aug-2016 13:38:01 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 6
+[09-Aug-2016 13:38:58 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 6
+[09-Aug-2016 13:39:06 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 6
+[09-Aug-2016 13:41:45 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 6
+[09-Aug-2016 13:42:03 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 6
+[09-Aug-2016 13:42:08 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 6
+[09-Aug-2016 13:42:15 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 6
+[09-Aug-2016 13:42:18 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 6
+[09-Aug-2016 13:44:37 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 8
+[09-Aug-2016 13:44:39 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 8
+[09-Aug-2016 14:25:40 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home3/starshow/public_html/erp/aibwp/info.php on line 17
+[09-Aug-2016 14:55:38 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home3/starshow/public_html/erp/aibwp/info.php on line 17
+[09-Aug-2016 14:56:11 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home3/starshow/public_html/erp/aibwp/info.php on line 17
+[09-Aug-2016 15:21:15 America/Denver] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 24
+[09-Aug-2016 15:37:35 America/Denver] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 24
+[09-Aug-2016 15:37:37 America/Denver] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 24
+[09-Aug-2016 15:42:20 America/Denver] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 24
+[09-Aug-2016 15:42:23 America/Denver] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 24
+[09-Aug-2016 15:42:25 America/Denver] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 24
+[09-Aug-2016 15:43:11 America/Denver] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 24
+[09-Aug-2016 15:43:15 America/Denver] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 24
+[09-Aug-2016 15:44:28 America/Denver] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 24
+[10-Aug-2016 10:37:06 America/Denver] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ',' or ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 26
+[10-Aug-2016 10:37:10 America/Denver] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ',' or ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 26
+[10-Aug-2016 10:58:28 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home3/starshow/public_html/erp/aibwp/info.php on line 22
+[10-Aug-2016 10:59:55 America/Denver] PHP Parse error:  syntax error, unexpected '/' in /home3/starshow/public_html/erp/aibwp/info.php on line 21
+[10-Aug-2016 10:59:58 America/Denver] PHP Parse error:  syntax error, unexpected '/' in /home3/starshow/public_html/erp/aibwp/info.php on line 21
+[10-Aug-2016 11:00:10 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home3/starshow/public_html/erp/aibwp/info.php on line 23
+[10-Aug-2016 11:00:14 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home3/starshow/public_html/erp/aibwp/info.php on line 23
+[10-Aug-2016 11:00:25 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home3/starshow/public_html/erp/aibwp/info.php on line 23
+[10-Aug-2016 12:00:48 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home3/starshow/public_html/erp/aibwp/info.php on line 23
+[10-Aug-2016 12:01:10 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home3/starshow/public_html/erp/aibwp/info.php on line 23
+[10-Aug-2016 12:07:09 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home3/starshow/public_html/erp/aibwp/info.php on line 20
+[10-Aug-2016 12:07:13 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home3/starshow/public_html/erp/aibwp/info.php on line 20
+[10-Aug-2016 12:07:15 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home3/starshow/public_html/erp/aibwp/info.php on line 20
+[10-Aug-2016 12:07:41 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home3/starshow/public_html/erp/aibwp/info.php on line 20
+[10-Aug-2016 12:07:50 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home3/starshow/public_html/erp/aibwp/info.php on line 20
+[10-Aug-2016 12:08:52 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home3/starshow/public_html/erp/aibwp/info.php on line 20
+[10-Aug-2016 12:08:54 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home3/starshow/public_html/erp/aibwp/info.php on line 20
+[10-Aug-2016 12:08:56 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home3/starshow/public_html/erp/aibwp/info.php on line 20
+[10-Aug-2016 12:09:02 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home3/starshow/public_html/erp/aibwp/info.php on line 20
+[10-Aug-2016 12:10:21 America/Denver] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ',' or ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 26
+[10-Aug-2016 12:10:26 America/Denver] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ',' or ';' in /home3/starshow/public_html/erp/aibwp/info.php on line 26
+[10-Aug-2016 13:12:42 America/Denver] PHP Notice:  Undefined index: Label_Company in /home3/starshow/public_html/erp/aibwp/info.php on line 16
+[10-Aug-2016 13:12:42 America/Denver] PHP Notice:  Undefined index: Label_DateRecieved in /home3/starshow/public_html/erp/aibwp/info.php on line 16
+[10-Aug-2016 13:12:42 America/Denver] PHP Notice:  Undefined index: Label_TrackingNumber4 in /home3/starshow/public_html/erp/aibwp/info.php on line 16
+[15-Aug-2016 21:24:05 America/Denver] PHP Notice:  Undefined index: Label_Company in /home3/starshow/public_html/erp/aibwp/info.php on line 16
+[15-Aug-2016 21:24:05 America/Denver] PHP Notice:  Undefined index: Label_DateRecieved in /home3/starshow/public_html/erp/aibwp/info.php on line 16
+[15-Aug-2016 21:24:05 America/Denver] PHP Notice:  Undefined index: Label_TrackingNumber4 in /home3/starshow/public_html/erp/aibwp/info.php on line 16
+[30-Aug-2016 08:55:56 America/Denver] PHP Notice:  Undefined index: Label_RecipientName in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:55:56 America/Denver] PHP Notice:  Undefined index: Label_AddressLine1 in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:55:56 America/Denver] PHP Notice:  Undefined index: Label_AddressLine2 in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:55:56 America/Denver] PHP Notice:  Undefined index: Label_City in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:55:56 America/Denver] PHP Notice:  Undefined index: Label_State in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:55:56 America/Denver] PHP Notice:  Undefined index: Label_ZipCode in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:55:56 America/Denver] PHP Notice:  Undefined index: Label_trackingNumber in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:55:56 America/Denver] PHP Notice:  Undefined index: Label_SenderCompaney in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:55:56 America/Denver] PHP Notice:  Undefined index: Label_SenderName in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:55:56 America/Denver] PHP Notice:  Undefined index: Label_SAddressLine1 in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:55:56 America/Denver] PHP Notice:  Undefined index: Label_SAddressLine2 in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:55:56 America/Denver] PHP Notice:  Undefined index: Label_SCity in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:55:56 America/Denver] PHP Notice:  Undefined index: Label_SState in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:55:56 America/Denver] PHP Notice:  Undefined index: Label_SZip in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:55:56 America/Denver] PHP Notice:  Undefined index: Label_SenderTelephone in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:55:56 America/Denver] PHP Notice:  Undefined variable: conn in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 11
+[30-Aug-2016 08:55:56 America/Denver] PHP Fatal error:  Call to a member function query() on null in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 11
+[30-Aug-2016 08:58:23 America/Denver] PHP Notice:  Undefined index: Label_RecipientName in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:58:23 America/Denver] PHP Notice:  Undefined index: Label_AddressLine1 in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:58:23 America/Denver] PHP Notice:  Undefined index: Label_AddressLine2 in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:58:23 America/Denver] PHP Notice:  Undefined index: Label_City in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:58:23 America/Denver] PHP Notice:  Undefined index: Label_State in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:58:23 America/Denver] PHP Notice:  Undefined index: Label_ZipCode in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:58:23 America/Denver] PHP Notice:  Undefined index: Label_trackingNumber in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:58:23 America/Denver] PHP Notice:  Undefined index: Label_SenderCompaney in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:58:23 America/Denver] PHP Notice:  Undefined index: Label_SenderName in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:58:23 America/Denver] PHP Notice:  Undefined index: Label_SAddressLine1 in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:58:23 America/Denver] PHP Notice:  Undefined index: Label_SAddressLine2 in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:58:23 America/Denver] PHP Notice:  Undefined index: Label_SCity in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:58:23 America/Denver] PHP Notice:  Undefined index: Label_SState in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:58:23 America/Denver] PHP Notice:  Undefined index: Label_SZip in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:58:23 America/Denver] PHP Notice:  Undefined index: Label_SenderTelephone in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:58:23 America/Denver] PHP Notice:  Undefined variable: result in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 14
+[30-Aug-2016 08:58:23 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 14
+[30-Aug-2016 08:58:23 America/Denver] PHP Notice:  Undefined variable: conn in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 25
+[30-Aug-2016 08:58:23 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 25
+[30-Aug-2016 08:58:23 America/Denver] PHP Notice:  Undefined variable: conn in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 28
+[30-Aug-2016 08:58:23 America/Denver] PHP Fatal error:  Call to a member function close() on null in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 28
+[30-Aug-2016 08:59:26 America/Denver] PHP Notice:  Undefined index: Label_RecipientName in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:59:26 America/Denver] PHP Notice:  Undefined index: Label_AddressLine1 in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:59:26 America/Denver] PHP Notice:  Undefined index: Label_AddressLine2 in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:59:26 America/Denver] PHP Notice:  Undefined index: Label_City in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:59:26 America/Denver] PHP Notice:  Undefined index: Label_State in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:59:26 America/Denver] PHP Notice:  Undefined index: Label_ZipCode in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:59:26 America/Denver] PHP Notice:  Undefined index: Label_trackingNumber in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:59:26 America/Denver] PHP Notice:  Undefined index: Label_SenderCompaney in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:59:26 America/Denver] PHP Notice:  Undefined index: Label_SenderName in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:59:26 America/Denver] PHP Notice:  Undefined index: Label_SAddressLine1 in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:59:26 America/Denver] PHP Notice:  Undefined index: Label_SAddressLine2 in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:59:26 America/Denver] PHP Notice:  Undefined index: Label_SCity in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:59:26 America/Denver] PHP Notice:  Undefined index: Label_SState in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:59:26 America/Denver] PHP Notice:  Undefined index: Label_SZip in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:59:26 America/Denver] PHP Notice:  Undefined index: Label_SenderTelephone in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 6
+[30-Aug-2016 08:59:26 America/Denver] PHP Notice:  Undefined variable: result in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 14
+[30-Aug-2016 08:59:26 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 14
+[30-Aug-2016 08:59:26 America/Denver] PHP Notice:  Undefined variable: conn in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 25
+[30-Aug-2016 08:59:26 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 25
+[30-Aug-2016 08:59:26 America/Denver] PHP Notice:  Undefined variable: conn in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 28
+[30-Aug-2016 08:59:26 America/Denver] PHP Fatal error:  Call to a member function close() on null in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 28
+[31-Aug-2016 08:39:37 America/Denver] PHP Notice:  Undefined index: Label_AddressLine1 in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 10
+[31-Aug-2016 08:39:37 America/Denver] PHP Notice:  Undefined index: Label_AddressLine2 in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 10
+[31-Aug-2016 08:39:37 America/Denver] PHP Notice:  Undefined index: Label_City in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 11
+[31-Aug-2016 08:39:37 America/Denver] PHP Notice:  Undefined index: Label_State in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 11
+[31-Aug-2016 08:39:37 America/Denver] PHP Notice:  Undefined index: Label_ZipCode in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 11
+[31-Aug-2016 08:39:37 America/Denver] PHP Notice:  Undefined index: Label_trackingNumber in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 12
+[31-Aug-2016 08:39:37 America/Denver] PHP Notice:  Undefined index: Label_SenderCompaney in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 12
+[31-Aug-2016 08:39:37 America/Denver] PHP Notice:  Undefined index: Label_SenderName in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 12
+[31-Aug-2016 08:39:37 America/Denver] PHP Notice:  Undefined index: Label_SAddressLine1 in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 13
+[31-Aug-2016 08:39:37 America/Denver] PHP Notice:  Undefined index: Label_SAddressLine2 in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 13
+[31-Aug-2016 08:39:37 America/Denver] PHP Notice:  Undefined index: Label_SCity in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 13
+[31-Aug-2016 08:39:37 America/Denver] PHP Notice:  Undefined index: Label_SState in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 14
+[31-Aug-2016 08:39:37 America/Denver] PHP Notice:  Undefined index: Label_SZip in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 14
+[31-Aug-2016 08:39:37 America/Denver] PHP Notice:  Undefined index: Label_SenderTelephone in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 14
+[31-Aug-2016 08:39:37 America/Denver] PHP Notice:  Undefined variable: result in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 22
+[31-Aug-2016 08:39:37 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 22
+[31-Aug-2016 08:39:37 America/Denver] PHP Notice:  Undefined variable: conn in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 33
+[31-Aug-2016 08:39:37 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 33
+[31-Aug-2016 08:39:37 America/Denver] PHP Notice:  Undefined variable: conn in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 36
+[31-Aug-2016 08:39:37 America/Denver] PHP Fatal error:  Call to a member function close() on null in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 36
+[31-Aug-2016 08:40:35 America/Denver] PHP Notice:  Undefined index: Label_AddressLine1 in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 21
+[31-Aug-2016 08:40:35 America/Denver] PHP Notice:  Undefined index: Label_AddressLine2 in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 21
+[31-Aug-2016 08:40:35 America/Denver] PHP Notice:  Undefined index: Label_City in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 22
+[31-Aug-2016 08:40:35 America/Denver] PHP Notice:  Undefined index: Label_State in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 22
+[31-Aug-2016 08:40:35 America/Denver] PHP Notice:  Undefined index: Label_ZipCode in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 22
+[31-Aug-2016 08:40:35 America/Denver] PHP Notice:  Undefined index: Label_trackingNumber in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 23
+[31-Aug-2016 08:40:35 America/Denver] PHP Notice:  Undefined index: Label_SenderCompaney in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 23
+[31-Aug-2016 08:40:35 America/Denver] PHP Notice:  Undefined index: Label_SenderName in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 23
+[31-Aug-2016 08:40:35 America/Denver] PHP Notice:  Undefined index: Label_SAddressLine1 in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 24
+[31-Aug-2016 08:40:35 America/Denver] PHP Notice:  Undefined index: Label_SAddressLine2 in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 24
+[31-Aug-2016 08:40:35 America/Denver] PHP Notice:  Undefined index: Label_SCity in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 24
+[31-Aug-2016 08:40:35 America/Denver] PHP Notice:  Undefined index: Label_SState in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 25
+[31-Aug-2016 08:40:35 America/Denver] PHP Notice:  Undefined index: Label_SZip in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 25
+[31-Aug-2016 08:40:35 America/Denver] PHP Notice:  Undefined index: Label_SenderTelephone in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 25
+[31-Aug-2016 08:40:35 America/Denver] PHP Notice:  Undefined variable: result in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 33
+[31-Aug-2016 08:40:35 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/starshow/public_html/erp/aibwp/trackingDB.php on line 33

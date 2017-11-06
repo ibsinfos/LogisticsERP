@@ -1,0 +1,1123 @@
+# Copyright (C) 2015 Sayed Taqui
+# This file is distributed under the GNU General Public License 2.0(or later).
+msgid ""
+msgstr ""
+"Project-Id-Version: Supernova 2.0.3\n"
+"Report-Msgid-Bugs-To: http://supernovathemes.com/\n"
+"POT-Creation-Date: 2015-12-27 18:39:34+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Supernova Themes <support@supernovathemes.com>\n"
+"Language-Team: Team <support@supernovathemes.com>\n"
+"X-Generator: grunt-wp-i18n 0.5.3\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the "
+"links below or a search?"
+msgstr ""
+
+#: comments.php:38 comments.php:60
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41 comments.php:63
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:42 comments.php:64
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:24
+msgid "http://supernovathemes.com/"
+msgstr ""
+
+#: functions.php:57 lib/admin/customizer/nova-settings.php:235
+msgid "Top Most Navigation"
+msgstr ""
+
+#: functions.php:58 lib/admin/customizer/nova-settings.php:244
+msgid "Categories Navigation"
+msgstr ""
+
+#: functions.php:59 lib/admin/customizer/nova-settings.php:253
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:121
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:129
+msgid "Footer Widgets"
+msgstr ""
+
+#: functions.php:131
+msgid "I will appear at the footer"
+msgstr ""
+
+#: functions.php:176
+msgid "Loading.."
+msgstr ""
+
+#: functions.php:178
+msgid "Menu"
+msgstr ""
+
+#: functions.php:179 lib/admin/customizer/nova-settings.php:585
+#: template-parts/top-most-mobile-navigation.php:20
+#: template-parts/top-most-navigation.php:21
+msgid "Categories"
+msgstr ""
+
+#: functions.php:180
+msgid "Sorry there was an error loading posts. Please try again later."
+msgstr ""
+
+#: functions.php:181
+msgid "Sorry there are no more posts available right now."
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: inc/custom-functions.php:109
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/custom-functions.php:128
+msgid "Logo"
+msgstr ""
+
+#: inc/custom-functions.php:160
+msgid "Load More"
+msgstr ""
+
+#: inc/custom-functions.php:170
+msgid "Read More"
+msgstr ""
+
+#: inc/custom-functions.php:185
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/extras.php:57
+msgid "Page %s"
+msgstr ""
+
+#: inc/extras.php:126
+msgid "Home"
+msgstr ""
+
+#: inc/extras.php:150
+msgid "Author Archive"
+msgstr ""
+
+#: inc/extras.php:154
+msgid "Blog Archive"
+msgstr ""
+
+#: inc/extras.php:158
+msgid "Search Archive"
+msgstr ""
+
+#: inc/extras.php:173
+msgid "Decrease Font Size"
+msgstr ""
+
+#: inc/extras.php:174
+msgid "Increase Font Size"
+msgstr ""
+
+#: inc/extras.php:191
+msgid "About "
+msgstr ""
+
+#: inc/extras.php:194
+msgid "View all posts by "
+msgstr ""
+
+#: inc/extras.php:217
+msgid " Previous"
+msgstr ""
+
+#: inc/extras.php:232
+msgid " Next"
+msgstr ""
+
+#: inc/extras.php:316
+msgid ""
+"<b>Supernova theme</b> has been rebuilt for better performance and to meet "
+"wordpress new standards. Therefore your settings have been moved to "
+"customizer. Your theme may look broken but its actually fixed now. Please "
+"save it again from customizer live preview. Sorry for any inconvenience "
+"caused. | <a href=\"%1$s\">Hide Notice</a>"
+msgstr ""
+
+#: inc/hooks.php:27
+msgid "Latest Blogs"
+msgstr ""
+
+#: inc/hooks.php:29 inc/widgets/post-tabs.php:251
+msgid "Popular"
+msgstr ""
+
+#: inc/hooks.php:32 inc/widgets/post-tabs.php:252
+msgid "Recommended"
+msgstr ""
+
+#: inc/load-more.php:30
+msgid "Sorry there are no posts available."
+msgstr ""
+
+#: inc/meta-boxes.php:19
+msgid "Write CSS for this post"
+msgstr ""
+
+#: inc/meta-boxes.php:20
+msgid "Write CSS for this page"
+msgstr ""
+
+#: inc/meta-boxes.php:29
+msgid "Dont forget to wrap in <b>STYLE</b> tag"
+msgstr ""
+
+#: inc/meta-boxes.php:58
+msgid "List this post under"
+msgstr ""
+
+#: inc/meta-boxes.php:70
+msgid "Recommended Posts"
+msgstr ""
+
+#: inc/meta-boxes.php:74
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr ""
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:118
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:120
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-tags.php:144
+#. translators: used between list items, there is a space after the comma
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:144
+msgid "Comment (1)"
+msgstr ""
+
+#: inc/template-tags.php:144
+msgid "Comments (%)"
+msgstr ""
+
+#: inc/template-tags.php:148 template-parts/content-page.php:30
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:165
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:167
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:169
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:171
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:173
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:175
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:197
+msgid "Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:201
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:203
+msgid "Archives"
+msgstr ""
+
+#: inc/widgets/post-tabs.php:16
+msgid "Shows tabs for recent and other posts"
+msgstr ""
+
+#: inc/widgets/post-tabs.php:25
+msgid "Supernova Multi Tabs"
+msgstr ""
+
+#: inc/widgets/post-tabs.php:98
+msgid "Tabber"
+msgstr ""
+
+#: inc/widgets/post-tabs.php:120
+msgid "Tab "
+msgstr ""
+
+#: inc/widgets/post-tabs.php:135
+msgid "Number of posts to show : "
+msgstr ""
+
+#: inc/widgets/post-tabs.php:146
+msgid "Show Thumbnail : "
+msgstr ""
+
+#: inc/widgets/post-tabs.php:152
+msgid "Show : "
+msgstr ""
+
+#: inc/widgets/post-tabs.php:154
+msgid "Comment "
+msgstr ""
+
+#: inc/widgets/post-tabs.php:157
+msgid "Date "
+msgstr ""
+
+#: inc/widgets/post-tabs.php:161
+msgid "None "
+msgstr ""
+
+#: inc/widgets/post-tabs.php:233
+msgid "Leave A Comment"
+msgstr ""
+
+#: inc/widgets/post-tabs.php:233
+msgid "1 comment"
+msgstr ""
+
+#: inc/widgets/post-tabs.php:249 lib/admin/customizer/nova-settings.php:314
+#: lib/admin/customizer/nova-settings.php:346
+#: lib/admin/customizer/nova-settings.php:378
+msgid "None"
+msgstr ""
+
+#: inc/widgets/post-tabs.php:250
+msgid "Recent"
+msgstr ""
+
+#: inc/widgets/post-tabs.php:253
+msgid "Random"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:23
+msgid "Shows recent posts with date and featured image"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:32
+msgid "Supernova Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:91
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:97
+msgid "Number of posts to show:"
+msgstr ""
+
+#: lib/admin/customizer/admin-functions.php:26
+msgid "---Select Post---"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:52
+msgid "Background Color"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:53
+msgid "Background Image"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:54
+msgid "No Repeat"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:55
+msgid "Repeat All"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:56
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:57
+msgid "Repeat Vertically"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:58
+msgid "Inherit"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:59
+msgid "Background Repeat"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:60
+msgid "Cover"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:61
+msgid "Contain"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:62
+msgid "Background Size"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:63
+msgid "Fixed"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:64
+msgid "Scroll"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:65
+msgid "Background Attachment"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:66
+msgid "Left Top"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:67
+msgid "Left Center"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:68
+msgid "Left Bottom"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:69
+msgid "Right Top"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:70
+msgid "Right Center"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:71
+msgid "Right Bottom"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:72
+msgid "Center Top"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:73
+msgid "Center Center"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:74
+msgid "Center Bottom"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:75
+msgid "Background Position"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:76
+msgid "Background Opacity"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:77
+msgid "ON"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:78
+msgid "OFF"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:79
+msgid "All"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:80
+msgid "Cyrillic"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:81
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:82
+msgid "Devanagari"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:83
+msgid "Greek"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:84
+msgid "Greek Extended"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:85
+msgid "Khmer"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:86
+msgid "Latin"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:87
+msgid "Latin Extended"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:88
+msgid "Vietnamese"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:89
+msgid "Hebrew"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:90
+msgid "Arabic"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:91
+msgid "Bengali"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:92
+msgid "Gujarati"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:93
+msgid "Tamil"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:94
+msgid "Telugu"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:95
+msgid "Thai"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:99
+msgid "Font Family"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:100
+msgid "Font Size"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:101
+msgid "Font Weight"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:102
+msgid "Line Height"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:103
+msgid "Letter Spacing"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:104
+msgid "Top"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:105
+msgid "Bottom"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:106
+#: lib/admin/customizer/nova-settings.php:40
+msgid "Left"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:107
+msgid "Right"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/controls/class-nova-controls-repeater-control.php:34
+msgid "Add new row"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:27
+msgid "Upload Logo"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:35
+msgid "Logo/Title Placement"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:41
+msgid "Center"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:42
+msgid "right"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:49
+msgid "Display Header Text"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:62
+msgid "Layout"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:72
+msgid "Choose Sidebar Position."
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:85
+msgid "Layout Width"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:86
+msgid "Change the width of the website in pixel."
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:119
+msgid "Typography"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:127
+msgid "Body Font"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:128
+msgid "Would be applied to the content"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:137
+msgid "Body Font Size"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:138
+msgid "Change the font size of the overall website."
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:172
+msgid "Slider Options"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:179
+msgid "Add Slides"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:181
+msgid "Add New Slide"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:182
+msgid "Slider may not look the same as you see in the preview."
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:195
+msgid "Select Post (Optional)"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:200
+msgid "Title"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:204
+#: lib/admin/customizer/nova-settings.php:542
+msgid "Excerpt"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:216
+msgid "Display"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:226
+msgid "Display Navigation"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:262
+msgid "Main Navigation Search"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:271
+msgid "Keep Navigation Sticky"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:281
+msgid "Capitalization"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:290
+msgid "Navigation Capitalization"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:311
+#: lib/admin/customizer/nova-settings.php:343
+#: lib/admin/customizer/nova-settings.php:375
+msgid "Uppercase"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:312
+#: lib/admin/customizer/nova-settings.php:344
+#: lib/admin/customizer/nova-settings.php:376
+msgid "Lowercase"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:313
+#: lib/admin/customizer/nova-settings.php:345
+#: lib/admin/customizer/nova-settings.php:377
+msgid "Capitalize"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:322
+msgid "Sidebar Capitalization"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:354
+msgid "Heading Capitalization"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:387
+msgid "Posts And Pages"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:396
+msgid "Author Box"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:405
+msgid "Comments on Pages"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:414
+msgid "Popular Posts Tab"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:423
+msgid "Recommended Posts Tab"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:432
+msgid "Breadcrumb"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:441
+msgid "Font Resizer"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:450
+msgid "Back To Top"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:463
+msgid "Content"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:473
+#: lib/admin/customizer/nova-settings.php:482
+msgid "Copyright Text"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:492
+#: lib/admin/customizer/nova-settings.php:500
+msgid "Header Script"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:514
+msgid "Post Settings"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:523
+msgid "Popular Posts Dependency"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:524
+msgid ""
+"Popular Tab Posts will be pulled from here. If you select \"Let me select\" "
+"you can select the posts from post editor meta boxes."
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:528
+msgid "Actual Count"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:529
+msgid "Number of Comments"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:530
+msgid "Let me select"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:538
+msgid "Show Content"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:543
+msgid "Full"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:551
+msgid "Excerpt Length"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:552
+msgid "Will work only if you have excerpt selected above."
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:566
+msgid "Thumbnail Width in Listing"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:568
+msgid "The thumbnail sizes can be changed from Settings > Media"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:577
+msgid "Manage Meta"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:582
+msgid "Date"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:583
+msgid "Author"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:584
+msgid "Comment"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:586
+msgid "Tags"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:599
+msgid "Social Media"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:623
+msgid "Ad Spots"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:629
+msgid "Header"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:630
+msgid "Below Navigation"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:631
+msgid "Above Posts"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:632
+msgid "Below Post"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:633
+msgid "Above Single Post"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:634
+msgid "Below Single Post"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:635
+msgid "Above Footer"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:658
+msgid "Custom CSS"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:666
+msgid "CSS"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:683
+msgid "Footer Background Image"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:705
+msgid "Theme Skin"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:706
+msgid "Change color scheme."
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:716
+msgid "Heading Color"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:739
+msgid "Footer Heading Color"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:762
+msgid "Footer Color"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:785
+msgid "Footer Background Color"
+msgstr ""
+
+#: lib/admin/customizer/nova-settings.php:786
+msgid ""
+"Background color will be visible when there is no background image. You can "
+"remove background image from \"Background Image\" section."
+msgstr ""
+
+#: pro/updater/EDD_SL_Theme_Updater.php:54
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: pro/updater/licence-activation.php:42
+msgid "Theme License Options"
+msgstr ""
+
+#: pro/updater/licence-activation.php:51
+msgid "License Key"
+msgstr ""
+
+#: pro/updater/licence-activation.php:55
+msgid "Enter your license key"
+msgstr ""
+
+#: pro/updater/licence-activation.php:61 pro/updater/licence-activation.php:70
+msgid "Activate License"
+msgstr ""
+
+#: pro/updater/licence-activation.php:65
+msgid "active"
+msgstr ""
+
+#: pro/updater/licence-activation.php:67
+msgid "Deactivate License"
+msgstr ""
+
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search..."
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:23 template-parts/content-search.php:24
+#: template-parts/content-single.php:23 template-parts/content.php:22
+msgid "Pages:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Supernova"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://supernovathemes.com/supernova-theme"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Supernova is a responsive theme that comes in black, orange and blue "
+"colors, it has three page templates, with full slider, custom background "
+"and custom header. Supernova has been specially designed for blogging "
+"websites however due to its clean design and plenty of customization "
+"options, it can easily be customized for any purpose."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sayed Taqui"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://supernovathemes.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Slider"
+msgstr ""
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/template-tags.php:87
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:106
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:171
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:173
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:175
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:178
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:180
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:182
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:184
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:186
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:188
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:190
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:192
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:194
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:96
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:97
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: lib/admin/customizer/nova/includes/class-nova-toolkit.php:98
+msgctxt "font style"
+msgid "Monospace"
+msgstr ""
+
+#: searchform.php:2
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:4
+msgctxt "submit button"
+msgid "Search"
+msgstr ""

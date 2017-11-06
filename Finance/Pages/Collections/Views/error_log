@@ -1,0 +1,8 @@
+[17-Dec-2016 19:23:30] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/aiberpco/public_html/Finance/Pages/Collections/Views/viewCollectionsPagenated.php on line 64
+[17-Dec-2016 19:23:30] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/aiberpco/public_html/Finance/Pages/Collections/Views/viewCollectionsPagenated.php on line 139
+[17-Dec-2016 19:27:58] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/aiberpco/public_html/Finance/Pages/Collections/Views/viewCollectionsPagenated.php on line 64
+[17-Dec-2016 19:27:58] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/aiberpco/public_html/Finance/Pages/Collections/Views/viewCollectionsPagenated.php on line 139
+[17-Dec-2016 19:29:39] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/aiberpco/public_html/Finance/Pages/Collections/Views/viewCollectionsPagenated.php on line 64
+[17-Dec-2016 19:29:39] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/aiberpco/public_html/Finance/Pages/Collections/Views/viewCollectionsPagenated.php on line 139
+[17-Dec-2016 19:32:29] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/aiberpco/public_html/Finance/Pages/Collections/Views/viewCollectionsPagenated.php on line 64
+[17-Dec-2016 19:32:29] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/aiberpco/public_html/Finance/Pages/Collections/Views/viewCollectionsPagenated.php on line 139

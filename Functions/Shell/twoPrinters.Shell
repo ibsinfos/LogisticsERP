@@ -1,0 +1,2 @@
+@RunDLL32.exe printui.dll,PrintUIEntry /y /n "HP LaserJet Pro MFP M521 PCL 6"
+@RunDLL32.exe printui.dll,PrintUIEntry /y /n "Zebra UPS 2844"

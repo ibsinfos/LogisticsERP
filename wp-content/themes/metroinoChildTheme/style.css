@@ -1,0 +1,52 @@
+/*
+ Theme Name:     StarShows Studios metroino Child Theme
+ Description:    StarShows Studios metroino Child Theme
+ Author:         Avi Tannenbaum
+ Author URI:     http://www.StarShowsStudios.com
+ Template:       metroino
+ Version:        1.0.0
+*/
+ 
+@import url("/erp/aibwp/wp-content/themes/metroino/style.css");
+ 
+/* =Theme customization starts here
+------------------------------------------------------- */
+
+
+.navbar {
+    background: rgb(186, 10, 221) !important;
+}
+
+
+form {
+    line-height: 14px;
+}
+
+.article .article-body p {
+    margin-bottom: 5px;
+}
+
+
+.bottomMenuFloat {
+    position: fixed;
+    z-index: 100; 
+    bottom: 0; 
+    left: 0;
+    width: 100%;
+}
+
+/* Print styles */
+@media print 
+{
+iframe {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%!important;
+    height: 100%!important;
+}
+    tr, td, th {page-break-inside:avoid}
+    thead {display:table-header-group}
+    .NoPrint {visibility:hidden; display:none}
+    a {color:#000000}
+}
